@@ -20,7 +20,7 @@ On the intro text, give a hint to pick the camera used for calls (maybe detect i
 
 **Angle**: Maybe with feature detection, to calculate the angle of the face?
 
-**Lighting**, Background: Sample the surroundings, or the whole image, to see if there's too much (bright) white (like #fffeff)?
+**Lighting**, Background: Sample the surroundings, or the whole image, to see if there's too much (bright) white (like #fffeff, #fbfcfd)?
 
 **Network**: Ping some server to check for latency (in ms)? Use browser API to check for connection type (2G = bad)?
 
